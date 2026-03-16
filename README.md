@@ -7,7 +7,7 @@ Este projeto consiste em um pipeline de processamento de imagem para detecção 
 - Breno Silva (RM99275)
 - Gabriela Trevisan (RM99500)
 
-## 🧠 Parte Conceitual (Respostas Obrigatórias)
+## 🧠 Parte Conceitual
 
 ### 1. Por que a conversão para escala de cinza é importante?
 A conversão reduz a complexidade da imagem, passando de três canais de cor (RGB) para apenas um (intensidade). Isso diminui o custo computacional e remove informações de cores que podem gerar ruído em algoritmos de segmentação que dependem apenas do contraste entre objeto e fundo.
