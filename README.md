@@ -28,7 +28,6 @@ Este sistema pode ser aplicado no **Monitoramento Biológico Automatizado**. Pes
    ```bash
    python main.py
 
-
 ## 🛠️ Tecnologias Utilizadas
 - Python 3.x
 - OpenCV (Processamento de Imagem)
